@@ -411,7 +411,7 @@
   
   .hero {
     padding-block-start: 10px;
-    background-image: url("./assets/images/indexbackground.jpg");
+    background-image: url("/images/indexbackground.jpg");
     /* Adjusting background size to cover the entire element */
     background-size: cover;
     /* Centering the background image */
